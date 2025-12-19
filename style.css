@@ -396,4 +396,21 @@ body {
 }
 
 .social-btn.github:hover {
-  
+    border-color: #333;
+    color: #333;
+}
+
+.social-btn.twitter:hover {
+    border-color: #1da1f2;
+    color: #1da1f2;
+}
+
+.signup-link {
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+}
+
+.signup-link a {
+    color: #667eea;
+    text-decoration: n

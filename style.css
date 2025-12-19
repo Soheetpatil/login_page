@@ -317,3 +317,16 @@ body {
     opacity: 0;
     transition: opacity 0.3s;
 }
+
+.login-btn.loading .btn-text {
+    opacity: 0;
+}
+
+.login-btn.loading .btn-loader {
+    opacity: 1;
+}
+
+.spinner {
+    width: 20px;
+    height: 20px;
+    border: 2px
